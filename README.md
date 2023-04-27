@@ -1,8 +1,8 @@
-# TITLE heritage-sonification
+# Heritage Data Sonification: a Resource for Non-coders
 
 ## What
 
-Code and data produced in 2023 by Tierra Abeyta as part of a Digital Humanities Placement project
+Code and data produced in 2023 by Tierra Abeyta as part of a Digital Humanities Placement project.
 
 ## Why
 
